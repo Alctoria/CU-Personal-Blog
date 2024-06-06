@@ -32,7 +32,13 @@ nav::before {
 /* two lines above simply replicates the two black horizontal lines  */
 
 h1 {
-    position: center;
+    padding-top: 20px;
+
+    /* centering the height within my title page within the header to make it look nice */
+}
+
+h5 {
+    text-align: center;
 }
 
 nav #theme-toggler {

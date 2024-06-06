@@ -23,6 +23,8 @@
     --accent: rgb(231, 52, 33);
 }  
 
+/* we once again define the colors for light and dark theme modes that we are going to use for our page! */
+
 /* Style the form */
 form {
     width: 75%;
@@ -48,7 +50,7 @@ form textarea {
     width: 100%;
     padding: 15px;
     margin-bottom: 20px;
-    border: 1px solid var(--text);
+    border: 1px solid black;
     border-radius: 4px;
 }
 
