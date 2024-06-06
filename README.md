@@ -57,10 +57,9 @@ THEN I am presented with a link to the developer's portfolio.
 
 <img width="1268" alt="image" src="https://github.com/Alctoria/CU-Personal-Blog/assets/100668552/5c47be37-9713-4955-88e4-c467186ff6a2">
 
-<img width="1279" alt="image" src="https://github.com/Alctoria/CU-Personal-Blog/assets/100668552/19e2d6b4-8031-4596-8453-26b05b49cc78">
-
 <img width="1271" alt="image" src="https://github.com/Alctoria/CU-Personal-Blog/assets/100668552/1f85b3be-e5f3-42c1-b0b3-8f9f881373ec">
 
+<img width="1253" alt="image" src="https://github.com/Alctoria/CU-Personal-Blog/assets/100668552/aa82ef2b-a047-4874-a7e0-ff6636c5a991">
 
 <img width="1252" alt="image" src="https://github.com/Alctoria/CU-Personal-Blog/assets/100668552/b45fcd69-4f02-431d-9ba0-ee72562876e8">
 
