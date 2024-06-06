@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Henry's Personal Blog!</title>
+  <link rel="stylesheet" href="./css/form.css"/>
+  <link rel="stylesheet" href="./css/style.css"/>
+
+  <script src= "./js/logic.js"></script>
+</head>
+
+<body>
+  <!-- Header section containing the navigation bar -->
+  <header>
+    <h1>Henry's Personal Blog</h1>
+      <nav class = "blog-nav">
+          <button id="theme-toggler"></button>
+      </nav>
+  </header>
+
+  <main>
+      
+      <section id="left">
+          <div class="circle">
+              <h2>My First Blog</h2>
+          </div>
+      </section>
+
+    
+      <section id="right">
+          <form id="blog-form">
+              <h2>What's on your mind?</h2>
+
+              <label for="username">Username</label>
+              <input required type="text" name="username" placeholder = "Enter Username">
+              
+              <label for="title">Title</label>
+              <input required type="text" name="title" placeholder = "Enter Title">
+              
+              <label for="content">Content</label>
+              <textarea required name="content" placeholder = "Enter Text"></textarea>
+              
+              <button type="submit">Submit</button>
+
+              <!-- blog format essentially  -->
+        
+          </form>
+      </section>
+  </main>
+
+  <!-- Add JQuery library -->
+  <script src= "https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <!-- Link to external JavaScript file for form functionality -->
+  <script src= "./js/form.js"></script>
+
+</body>
+
+</html>
