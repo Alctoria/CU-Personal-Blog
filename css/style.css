@@ -125,12 +125,12 @@ main > section:nth-child(2)::before {
 
 main > section:nth-child(1)::after {
     right: 5px;
-    background-color: black;
+    background-color: var(--text);
 }
 
 main > section:nth-child(2)::before {
     left: 5px;
-    background-color: black;
+    background-color: var(--text);
 }
 
 /* Style the circular element */
